@@ -1,11 +1,30 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
+<<<<<<< HEAD
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+=======
+## 目录
+- <a href="#">laravel框架扩展包</a>
+    - <a href="https://github.com/yb19890724/phpno1-architecture">项目架构</a>
+    - <a href="https://github.com/andersao/l5-repository">l5-repository(仓库扩展包)</a>
+    - <a href="https://github.com/overtrue/laravel-lang">语言包</a>
+    - <a href="https://github.com/mpociot/laravel-apidoc-generator">Laravel API文档生成器</a>
+- <a href="#">语言扩展</a>
+    - <a href="https://github.com/overtrue/pinyin">中文转拼音工具</a>
+- <a href="#">noSql</a>
+    - <a href="https://github.com/nrk/predis">predis</a>
+    - <a href="https://github.com/jenssegers/laravel-mongodb">mongodb</a>
+- <a href="#">php算法</a>
+    - <a href="https://github.com/PuShaoWei/arithmetic-php">arithmetic-php</a>
+- <a href="#">支付扩展</a>
+    - <a href="https://github.com/PingPlusPlus/pingpp-php">ping++</a>    
+    
+>>>>>>> cabd48e794a95dd2bbada8433abe39dee250765b
 
 ## About Laravel
 
