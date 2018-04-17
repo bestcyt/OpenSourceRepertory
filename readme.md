@@ -3,7 +3,7 @@
 ## 目录
 - <a href="#">laravel框架扩展包</a>
     - <a href="https://github.com/yb19890724/phpno1-architecture">项目架构</a>
-    - <a href="https://github.com/andersao/l5-repository">l5-repository(仓库扩展包)</a>
+    - <a href="https://github.com/andersao/l5-repository">l5-repository(仓库扩展包)</a>
     - <a href="https://github.com/overtrue/laravel-lang">语言包</a>
     - <a href="https://github.com/mpociot/laravel-apidoc-generator">Laravel API文档生成器</a>
 - <a href="#">语言扩展</a>
